@@ -1,0 +1,4 @@
+{"PhoneId": "LB9DZLX4GMYHBUXW", "ip": "192.168.0.113", "wm_size": [1080, 2400], "port": "7270", "remote_id": "192.168.0.113:7270"}
+{"PhoneId": "LJJNAY5TDI8H4HF6", "ip": "192.168.0.112", "wm_size": [1080, 2400], "port": "9207", "remote_id": "192.168.0.112:9207"}
+{"PhoneId": "P7GY49497P5PQCS8", "ip": "192.168.0.111", "wm_size": [1080, 2400], "port": "6405", "remote_id": "192.168.0.111:6405"}
+{"PhoneId": "VGZTQGGMSS59LFW8", "ip": "192.168.0.114", "wm_size": [1080, 2400], "port": "8809", "remote_id": "192.168.0.114:8809"}
